@@ -1,6 +1,6 @@
 ### hello,
 
-- 🔭 I’m currently working on a platform for testing video game AI against each other
+- 🔭 I’m currently working on a platform for testing video game AI
 - 🌱 I’m currently learning low level programming
 - 📫 How to reach me: s.trawicki@lancaster.ac.uk
 

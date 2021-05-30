@@ -1,5 +1,5 @@
 - 3rd Year CompSci at [Lancaster](https://github.com/orgs/lancaster-uni/teams/students)
 - Currently waiting to start an internship and later a PhD in machine learning security
 - [Research group](https://ssg.lancs.ac.uk/people/)
-- I'm a teaching assistant for the operating systems and networking module at Lancaster
-- Did a dissertation on distributed pathfinding in decoupled cloud gaming engines
+- I'm was a teaching assistant for the operating systems and networking module at Lancaster
+- I did a third year dissertation on distributed pathfinding in decoupled cloud gaming engines

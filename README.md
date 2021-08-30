@@ -1,5 +1,4 @@
-- 3rd Year CompSci at [Lancaster](https://github.com/orgs/lancaster-uni/teams/students)
-- Currently an intern and soon to be PhD student in secure machine learning
-- [Research group](https://esl.lancs.ac.uk)
-- I was a teaching assistant for the operating systems and networking modules
+- First year PhD student in secure machine learning at [Lancaster](https://github.com/orgs/lancaster-uni/teams/students)
+- [ESL](https://esl.lancs.ac.uk) & [EDS](https://esl.lancs.ac.uk/)
+- Was a teaching assistant for the operating systems and networking modules
 - Third year dissertation on distributed pathfinding in decoupled cloud gaming engines

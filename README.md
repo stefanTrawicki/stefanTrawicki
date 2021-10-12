@@ -2,4 +2,4 @@
 - [ESL/EDS](https://esl.lancs.ac.uk)
 - Was a teaching assistant for the operating systems and networking modules
 - Third year dissertation on distributed pathfinding in decoupled cloud gaming engines
-- [Reading list](https://stefanuniversityworkspace.publiccontentdomain.notion/Reading-List-be0481a1977b47998383e88c7b0075b8)
+- [Reading list](https://stefanuniversityworkspace.notion.site/stefanuniversityworkspace/Reading-List-be0481a1977b47998383e88c7b0075b8)

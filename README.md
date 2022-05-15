@@ -1,5 +1,3 @@
-- First year PhD student in secure machine learning at [Lancaster](https://github.com/orgs/lancaster-uni/teams/students)
-- [ESL/EDS](https://esl.lancs.ac.uk)
-- Was a teaching assistant for the operating systems and networking modules
+- First year PhD candidate in secure machine learning at Lancaster in [ESL](https://esl.lancs.ac.uk)
+- Was a teaching assistant for the operating systems, networking and big data systems modules
 - Third year dissertation on distributed pathfinding in decoupled cloud gaming engines
-- [Reading list](https://stefanuniversityworkspace.notion.site/stefanuniversityworkspace/Reading-List-be0481a1977b47998383e88c7b0075b8)

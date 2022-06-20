@@ -1,3 +1,3 @@
-- First year PhD candidate in secure machine learning at Lancaster in [ESL](https://esl.lancs.ac.uk)
+- First year PhD candidate in secure machine learning at Lancaster in [EDS Lancs](https://esl.lancs.ac.uk)
 - Was a teaching assistant for the operating systems, networking and big data systems modules
 - Third year dissertation on distributed pathfinding in decoupled cloud gaming engines

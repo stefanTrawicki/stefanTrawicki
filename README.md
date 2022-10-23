@@ -1,3 +1,5 @@
-- First year PhD candidate in secure machine learning at Lancaster in [EDS Lancs](https://esl.lancs.ac.uk)
+- Second year PhD candidate in Secure Machine learning at Lancaster, group [EDS Lancs](https://esl.lancs.ac.uk)
+- Working for [Mindgard](https://mindgard.ai)
+- [First Paper](https://arxiv.org/abs/2209.06300)
 - Was a teaching assistant for the operating systems, networking and big data systems modules
 - Third year dissertation on distributed pathfinding in decoupled cloud gaming engines

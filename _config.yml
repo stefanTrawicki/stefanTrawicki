@@ -21,7 +21,7 @@ nav-menu:
 - text: About
   permalink: about
 - text: Blog
-  permalink: blog
+  permalink: blog.trawicki.io
 
 # use false to turn off any social media links
 twitter: false

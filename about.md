@@ -6,7 +6,7 @@ permalink: about
 
 I’m Stefan, a machine learning and security researcher from the UK.
 
-I work for (Founding ML Engineer) and helped build [Mindgard](https://mindgard.ai/), a first-of-its-kind security company for ML models and their deployments. I’m also a PhD researcher at Lancaster University in both the [Distributed Systems](https://eds.lancs.ac.uk/), and [Security Lancaster](https://ssg.lancs.ac.uk/people/) groups. My research can be found [here](https://www.lancaster.ac.uk/security-lancaster/about/all-staff/stefan-trawicki), and on [arxiv](https://arxiv.trawicki.io).
+I work for and helped build [Mindgard](https://mindgard.ai/) as a Founding ML Engineer. Mindgard is a first-of-its-kind security company for ML models and their deployments. I’m also a PhD researcher at Lancaster University in both the [Distributed Systems](https://eds.lancs.ac.uk/), and [Security Lancaster](https://ssg.lancs.ac.uk/people/) groups. My research can be found [here](https://www.lancaster.ac.uk/security-lancaster/about/all-staff/stefan-trawicki), and on [arxiv](https://arxiv.trawicki.io).
 
 <img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/stefan.png">
 

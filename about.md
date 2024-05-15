@@ -4,19 +4,14 @@ title: About
 permalink: about
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+I’m Stefan, a machine learning and security researcher from the UK.
 
-## Profile Image
+I work for (Founding ML Engineer) and helped build Mindgard, a first-of-its-kind security company for ML models and their deployments. I’m also a PhD researcher at Lancaster University in both the Distributed Systems, and Security Lancaster groups. My research can be found here, and on arxiv.
 
-The following profile image is my first NFT avatar.
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/279.png">
+I graduated from Lancaster SCC in 2021, and have since taught SCC203 Networking, SCC211 Operating Systems, and SCC411 Big Data Systems.
 
-## References
+Most of my time is spent learning about ML, both in theory and production. I work with attacks against ML models ranging from those targeting public API’s all the way down to execution signatures on bare metal. Currently, my focus is on ML compilation.
 
-I copied some references from [wikipedia](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) to show some markdown examples:
+Being one of the founding team members of Mindgard also let me build up skills in NodeJS, React and their associated libraries in a full-stack capacity.
 
- - "The misidentification of Satoshi Nakamoto". theweek.com. 30 June 2015. Retrieved 22 July 2019.
- Kharif, Olga (23 April 2019). "John McAfee Vows to Unmask Crypto's Satoshi Nakamoto, Then Backs Off". Bloomberg.
- - "Who Is Satoshi Nakamoto, Inventor of Bitcoin? It Doesn't Matter". Fortune. Retrieved 22 July 2019.
- - Bearman, Sophie (27 October 2017). "Bitcoin's creator may be worth $6 billion — but people still don't know who it is". CNBC. Retrieved 22 July 2019.
- S., L. (2 November 2015). "Who is Satoshi Nakamoto?". The Economist explains. The Economist. Archived from the original on 21 August 2016. Retrieved 3 November 2015.
+<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/stefan.png">

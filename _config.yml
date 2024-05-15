@@ -3,16 +3,16 @@ baseurl: "/stefanTrawicki" # the name of your github repo
 url: "https://stefanTrawicki.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Stefan Trawicki"
+description: I’m Stefan, a machine learning and security researcher from the UK. I helped build Mindgard, and am also a PhD researcher at Lancaster University in both the Distributed Systems, and Security Lancaster groups.
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author: Stefan Trawicki
+author-bio: Machine Learning and Security Researcher
+author-image: stefan.png
 
 # navigation menu
 show-nav-menu: true
@@ -20,24 +20,22 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
 - text: Blog
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+twitter: false
+facebook: false
+instagram: false
+github: https://github.com/stefanTrawicki/
+linkedin: https://www.linkedin.com/in/stefan-trawicki/
 medium: false
-google-scholar: false
+google-scholar: https://scholar.google.com/citations?user=XlAFln4AAAAJ&hl=en/
 email: false
 
 # footer information
-footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg: ""
+footer-msg-link: 
 
 # google analytics
 google-analytics: G-WCRC1TC2V5

@@ -18,10 +18,10 @@ author-image: stefan.png
 show-nav-menu: true
 
 nav-menu:
-- text: About
-  permalink: about
-- text: Blog
-  permalink: https://blog.trawicki.io/
+  - text: About
+    permalink: about
+  - text: Blog
+    permalink: https://blog.trawicki.io/
 
 # use false to turn off any social media links
 twitter: false
@@ -35,11 +35,11 @@ email: false
 
 # footer information
 footer-msg: ""
-footer-msg-link: 
+footer-msg-link:
 
 # google analytics
-google-analytics: 
+google-analytics:
 
 # jekyll plugins - no need to change
 plugins:
-    - jekyll-seo-tag
+  - jekyll-seo-tag

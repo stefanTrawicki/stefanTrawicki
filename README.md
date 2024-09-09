@@ -13,3 +13,5 @@ Other Experience:
 
 - Was a teaching assistant for the operating systems, networking and big data systems modules
 - Third year dissertation on distributed pathfinding in decoupled cloud gaming engines
+
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanTrawicki&theme=synthwave)](Stats)

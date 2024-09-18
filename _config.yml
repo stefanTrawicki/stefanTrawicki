@@ -22,6 +22,8 @@ nav-menu:
     permalink: about
   - text: Blog
     permalink: https://blog.trawicki.io/
+  - text: CV
+    permalink: https://stefantrawicki.github.io/stefanTrawicki/assets/files/cv_2024.pdf
 
 # use false to turn off any social media links
 twitter: false

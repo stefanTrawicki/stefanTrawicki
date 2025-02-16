@@ -1,7 +1,7 @@
 Working as:
 
 - Founding ML Engineer at [Mindgard](https://mindgard.ai)
-- Second year PhD student in Secure Machine learning at Lancaster, group [EDS Lancs](https://esl.lancs.ac.uk)
+- Third year PhD student in Secure Machine learning at Lancaster, group [EDS Lancs](https://esl.lancs.ac.uk)
 
 Research:
 
@@ -11,7 +11,5 @@ Research:
 
 Other Experience:
 
-- Was a teaching assistant for the operating systems, networking and big data systems modules
+- Teaching assistant for operating systems, networking and big data systems
 - Third year dissertation on distributed pathfinding in decoupled cloud gaming engines
-
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanTrawicki&theme=synthwave)](Stats)
